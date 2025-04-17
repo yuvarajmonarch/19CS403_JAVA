@@ -1,9 +1,9 @@
 # Ex.No:1 CLASS & OBJECTS
 
-##AIM:
+## AIM:
 To create a class named 'Student' with String variable 'name' and String variable 'address'.
 
-##ALGORITHM :
+## ALGORITHM :
 1.	Start the program.
 2.	Define a class named 'Student'
 3.	Declare a String variable 'name' and initialize it with the value "John"
